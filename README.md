@@ -18,7 +18,7 @@ This repository contains the data sets and code for the paper "Optimal Weighted 
 
 ## Instructions
 
-The codes are configured to use the "housing" data set as an example. To apply the codes to other data sets, replace "housing.csv" with the desired data set in the data input area.
+The codes are configured to use the "Boston Housing" data set as an example. To apply the codes to other data sets, replace "housing.csv" with the desired data set in the data input area.
 
 ---
 
