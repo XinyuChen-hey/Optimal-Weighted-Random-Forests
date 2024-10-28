@@ -1,0 +1,35 @@
+1. BH
+https://www.kaggle.com/datasets/altavish/boston-housing-dataset
+
+2. Servo
+https://archive.ics.uci.edu/dataset/87/servo
+
+3. CCS
+https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength
+
+4. ASN
+https://archive.ics.uci.edu/dataset/291/airfoil+self+noise
+
+5. CCPP
+https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant
+
+6.  CST
+https://archive.ics.uci.edu/dataset/182/concrete+slump+test
+
+7. EE
+https://archive.ics.uci.edu/dataset/242/energy+efficiency
+
+8. PT
+https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring
+
+9. QSAR
+https://archive.ics.uci.edu/dataset/505/qsar+aquatic+toxicity
+
+10. SM
+https://archive.ics.uci.edu/dataset/607/synchronous+machine+data+set
+
+11. YH
+https://archive.ics.uci.edu/dataset/243/yacht+hydrodynamics
+
+12. Tecator
+https://www.openml.org/search?type=data&status=active&id=505
