@@ -4,7 +4,7 @@ This repository contains the data sets and code for the paper "Optimal Weighted 
 
 ## Repository Structure
 
-- **dataset/**: This folder contains the 12 real data sets used in this study (see Table 2 in the paper), along with their sources.
+- `dataset/`: This folder contains the 12 real data sets used in this study (see Table 2 in the paper), along with their sources.
   
 - **owrf.R**: This file provides the code for our proposed algorithms, 1step-WRF<sub>opt</sub> and 2steps-WRF<sub>opt</sub>, as well as implementations of competitor methods, using CART trees, in accordance with Section 4.1.1 of the paper.
 
