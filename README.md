@@ -6,15 +6,15 @@ This repository contains the data sets and code for the paper "Optimal Weighted 
 
 - `dataset/`: This folder contains the 12 real data sets used in this study (see Table 2 in the paper), along with their sources.
   
-- **owrf.R**: This file provides the code for our proposed algorithms, 1step-WRF<sub>opt</sub> and 2steps-WRF<sub>opt</sub>, as well as implementations of competitor methods, using CART trees, in accordance with Section 4.1.1 of the paper.
+- `owrf.R`: This file provides the code for our proposed algorithms, 1step-WRF<sub>opt</sub> and 2steps-WRF<sub>opt</sub>, as well as implementations of competitor methods, using CART trees, in accordance with Section 4.1.1 of the paper.
 
-- **owrf_SUT.R**: This file contains the code for our proposed algorithms, 1step-WRF<sub>opt</sub> and 2steps-WRF<sub>opt</sub>, using SUT trees, following Section 4.1.2 of the paper.
+- `owrf_SUT.R`: This file contains the code for our proposed algorithms, 1step-WRF<sub>opt</sub> and 2steps-WRF<sub>opt</sub>, using SUT trees, following Section 4.1.2 of the paper.
 
-- **owrf_robust.R**: This file includes code for testing the robustness of the random-forest hyperparameters "ntree" and "nodesize," as demonstrated in Figures D.12 - D.23 in Appendix D.
+- `owrf_robust.R`: This file includes code for testing the robustness of the random-forest hyperparameters "ntree" and "nodesize," as demonstrated in Figures D.12 - D.23 in Appendix D.
 
-- **owrf_withNoise.R**: This file provides code for the proposed algorithms on semi-synthetic data sets with injected noise, according to Section 4.2.1 of the paper.
+- `owrf_withNoise.R`: This file provides code for the proposed algorithms on semi-synthetic data sets with injected noise, according to Section 4.2.1 of the paper.
 
-- **featureEngineering.py**: This file creates semi-synthetic data sets, based on real data sets, for Section 4.2.2 of the paper.
+- `featureEngineering.py`: This file creates semi-synthetic data sets, based on real data sets, for Section 4.2.2 of the paper.
 
 ## Instructions
 
